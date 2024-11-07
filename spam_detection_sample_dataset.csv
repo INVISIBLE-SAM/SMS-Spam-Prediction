@@ -1,0 +1,101 @@
+id,text,label,type,source,timestamp
+1,Don't miss out on this investment opportunity! Secure your future now.,0,other,generated,2023-06-19 10:22:45
+2,Important: New login from unfamiliar location. Verify it's you.,1,SMS,real,2023-04-16 23:50:45
+3,Exclusive offer for premium members. Upgrade your plan.,1,other,real_2020_2024,2023-02-06 21:45:45
+4,Get a 50% discount on all items. Limited time offer!,1,SMS,real_2020_2024,2023-03-29 21:41:45
+5,COVID-19 support available. Sign up for assistance.,0,email,generated,2024-09-15 15:26:45
+6,"Dear customer, your payment is overdue. Pay now at http://paymentsite.com",1,other,real,2024-05-19 15:12:45
+7,Reminder: Rent payment is due next week.,0,financial,real_2020_2024,2023-09-29 02:53:45
+8,Don't miss out on this investment opportunity! Secure your future now.,0,SMS,real,2024-03-11 07:03:45
+9,Account alert: Unusual activity detected. Review your recent transactions.,1,SMS,real_2020_2024,2023-02-08 17:01:45
+10,Don't miss out on this investment opportunity! Secure your future now.,0,other,real_2020_2024,2024-08-24 15:03:45
+11,Reminder: Rent payment is due next week.,0,other,real,2024-02-29 05:41:45
+12,Reminder: Rent payment is due next week.,0,phishing,real_2020_2024,2023-08-26 12:32:45
+13,Immediate action required: Change your password to secure your account.,1,other,real_2020_2024,2024-09-08 20:48:45
+14,Congrats! You’ve won a $500 gift card. Claim at http://bit.ly/claimnow,1,financial,real,2023-05-31 01:44:45
+15,Click here to update your COVID-19 vaccination status.,1,financial,generated,2023-11-18 20:44:45
+16,Reminder: Your package is out for delivery.,0,other,real_2020_2024,2024-04-02 10:06:45
+17,Your account was accessed from an unknown device. Verify immediately at http://securelink.com,1,other,real_2020_2024,2023-10-19 23:29:45
+18,Last chance to save on your next purchase!,0,phishing,real,2024-11-02 00:06:45
+19,Limited stock available! Get your iPhone at a discount.,1,other,generated,2024-07-15 10:23:45
+20,Immediate action required: Change your password to secure your account.,1,financial,real,2023-06-19 13:13:45
+21,"Meeting at 10 AM tomorrow, please confirm.",0,SMS,generated,2023-05-20 22:39:45
+22,Important: New login from unfamiliar location. Verify it's you.,1,other,real,2022-12-16 03:53:45
+23,"Dear customer, your payment is overdue. Pay now at http://paymentsite.com",1,email,real,2023-10-25 10:47:45
+24,Click here to update your COVID-19 vaccination status.,1,other,real,2023-04-25 16:48:45
+25,Reminder: Rent payment is due next week.,0,email,real_2020_2024,2023-08-25 02:37:45
+26,Account alert: Unusual activity detected. Review your recent transactions.,1,financial,real,2024-05-30 01:29:45
+27,Immediate action required: Change your password to secure your account.,1,other,real_2020_2024,2024-08-09 07:34:45
+28,Get a 50% discount on all items. Limited time offer!,1,SMS,real,2022-12-03 17:45:45
+29,Get a 50% discount on all items. Limited time offer!,1,phishing,real_2020_2024,2024-02-04 15:54:45
+30,Important: New login from unfamiliar location. Verify it's you.,1,phishing,real_2020_2024,2023-05-09 12:04:45
+31,Reminder: Your package is out for delivery.,0,phishing,generated,2023-08-28 08:30:45
+32,Your account was accessed from an unknown device. Verify immediately at http://securelink.com,1,SMS,real,2022-12-05 07:58:45
+33,Limited stock available! Get your iPhone at a discount.,1,email,real_2020_2024,2024-10-16 15:07:45
+34,Immediate action required: Change your password to secure your account.,1,email,real_2020_2024,2023-12-09 10:40:45
+35,Reminder: Your package is out for delivery.,0,financial,generated,2024-09-26 22:53:45
+36,Account alert: Unusual activity detected. Review your recent transactions.,1,SMS,real_2020_2024,2023-10-23 18:23:45
+37,Click here to update your COVID-19 vaccination status.,1,other,real,2023-01-18 01:38:45
+38,COVID-19 support available. Sign up for assistance.,0,financial,generated,2023-08-02 07:37:45
+39,COVID-19 support available. Sign up for assistance.,0,financial,generated,2024-02-14 21:37:45
+40,Immediate action required: Change your password to secure your account.,1,email,real,2024-03-16 20:36:45
+41,Immediate action required: Change your password to secure your account.,1,SMS,generated,2023-07-22 01:05:45
+42,Immediate action required: Change your password to secure your account.,1,email,real_2020_2024,2023-01-23 23:46:45
+43,Exclusive offer for premium members. Upgrade your plan.,1,financial,real,2023-03-28 18:55:45
+44,Don't miss out on this investment opportunity! Secure your future now.,0,email,generated,2023-12-11 13:16:45
+45,Limited offer: Invest in Bitcoin now to double your earnings.,1,phishing,real_2020_2024,2022-11-16 22:30:45
+46,Limited offer: Invest in Bitcoin now to double your earnings.,1,phishing,real_2020_2024,2024-04-07 07:29:45
+47,Congrats! You’ve won a $500 gift card. Claim at http://bit.ly/claimnow,1,SMS,real,2024-08-18 03:13:45
+48,Congrats! You’ve won a $500 gift card. Claim at http://bit.ly/claimnow,1,financial,generated,2023-07-02 01:04:45
+49,Your account was accessed from an unknown device. Verify immediately at http://securelink.com,1,SMS,real,2022-12-09 11:12:45
+50,Important: New login from unfamiliar location. Verify it's you.,1,other,generated,2023-05-21 12:32:45
+51,Limited stock available! Get your iPhone at a discount.,1,phishing,real,2022-11-07 14:39:45
+52,Important: New login from unfamiliar location. Verify it's you.,1,email,real,2023-06-29 01:20:45
+53,Congrats! You’ve won a $500 gift card. Claim at http://bit.ly/claimnow,1,phishing,real_2020_2024,2023-09-24 05:42:45
+54,Reminder: Your package is out for delivery.,0,email,real,2024-05-01 19:53:45
+55,Your account was accessed from an unknown device. Verify immediately at http://securelink.com,1,SMS,real,2023-07-24 19:03:45
+56,Reminder: Rent payment is due next week.,0,SMS,generated,2024-02-29 06:52:45
+57,Click here to update your COVID-19 vaccination status.,1,phishing,real_2020_2024,2023-12-03 06:50:45
+58,Get a 50% discount on all items. Limited time offer!,1,SMS,generated,2024-04-28 22:16:45
+59,Click here to update your COVID-19 vaccination status.,1,financial,generated,2024-05-28 14:45:45
+60,"Dear customer, your payment is overdue. Pay now at http://paymentsite.com",1,phishing,real,2023-10-10 20:31:45
+61,Account alert: Unusual activity detected. Review your recent transactions.,1,financial,real,2023-10-13 22:12:45
+62,"Dear customer, your payment is overdue. Pay now at http://paymentsite.com",1,financial,real_2020_2024,2023-11-12 11:03:45
+63,Congrats! You’ve won a $500 gift card. Claim at http://bit.ly/claimnow,1,other,real_2020_2024,2023-10-08 07:19:45
+64,Click here to update your COVID-19 vaccination status.,1,phishing,real_2020_2024,2024-07-22 16:58:45
+65,Reminder: Your package is out for delivery.,0,SMS,generated,2023-04-03 02:14:45
+66,Reminder: Your package is out for delivery.,0,SMS,generated,2024-04-17 11:07:45
+67,Reminder: Rent payment is due next week.,0,email,real,2023-04-12 04:52:45
+68,"Congratulations, you've won a free trip! Click http://freetrip.com to claim.",1,phishing,real_2020_2024,2023-11-14 03:40:45
+69,Don't miss out on this investment opportunity! Secure your future now.,0,email,real,2023-03-07 14:30:45
+70,Get a 50% discount on all items. Limited time offer!,1,SMS,real,2024-03-16 04:22:45
+71,"Congratulations, you've won a free trip! Click http://freetrip.com to claim.",1,SMS,real,2023-02-19 23:06:45
+72,Reminder: Rent payment is due next week.,0,financial,real_2020_2024,2024-03-10 12:13:45
+73,Account alert: Unusual activity detected. Review your recent transactions.,1,financial,real,2023-10-01 07:22:45
+74,Limited offer: Invest in Bitcoin now to double your earnings.,1,SMS,generated,2024-09-22 08:47:45
+75,Important: New login from unfamiliar location. Verify it's you.,1,financial,real_2020_2024,2024-03-10 12:21:45
+76,"Meeting at 10 AM tomorrow, please confirm.",0,email,generated,2024-04-12 09:39:45
+77,Get a 50% discount on all items. Limited time offer!,1,financial,generated,2023-02-24 08:57:45
+78,COVID-19 support available. Sign up for assistance.,0,financial,real,2023-09-05 20:55:45
+79,Last chance to save on your next purchase!,0,financial,real,2022-12-01 05:56:45
+80,"Congratulations, you've won a free trip! Click http://freetrip.com to claim.",1,SMS,real,2024-06-22 00:32:45
+81,Congrats! You’ve won a $500 gift card. Claim at http://bit.ly/claimnow,1,other,real,2024-02-13 09:42:45
+82,New survey available! Complete it to earn rewards.,0,other,real_2020_2024,2023-04-24 10:01:45
+83,Account alert: Unusual activity detected. Review your recent transactions.,1,financial,real,2024-08-28 11:25:45
+84,Click here to update your COVID-19 vaccination status.,1,SMS,real_2020_2024,2023-02-07 02:51:45
+85,New survey available! Complete it to earn rewards.,0,SMS,real_2020_2024,2023-08-12 16:02:45
+86,Exclusive offer for premium members. Upgrade your plan.,1,phishing,real_2020_2024,2024-01-05 10:31:45
+87,Limited stock available! Get your iPhone at a discount.,1,SMS,generated,2024-05-17 00:45:45
+88,Urgent! Update your bank information to avoid account suspension.,1,phishing,real_2020_2024,2024-10-24 16:48:45
+89,Last chance to save on your next purchase!,0,SMS,real_2020_2024,2024-04-27 16:04:45
+90,Account alert: Unusual activity detected. Review your recent transactions.,1,other,real_2020_2024,2022-12-24 21:22:45
+91,Get a 50% discount on all items. Limited time offer!,1,financial,real,2023-04-23 10:14:45
+92,Last chance to save on your next purchase!,0,phishing,real_2020_2024,2023-01-26 15:25:45
+93,Congrats! You’ve won a $500 gift card. Claim at http://bit.ly/claimnow,1,phishing,real_2020_2024,2023-11-04 18:39:45
+94,Congrats! You’ve won a $500 gift card. Claim at http://bit.ly/claimnow,1,phishing,generated,2023-04-27 14:00:45
+95,Urgent! Update your bank information to avoid account suspension.,1,email,real,2022-11-25 21:13:45
+96,Account alert: Unusual activity detected. Review your recent transactions.,1,phishing,real_2020_2024,2023-11-26 20:23:45
+97,Limited offer: Invest in Bitcoin now to double your earnings.,1,phishing,real,2024-08-14 15:32:45
+98,Your account was accessed from an unknown device. Verify immediately at http://securelink.com,1,email,real_2020_2024,2023-02-20 23:20:45
+99,Account alert: Unusual activity detected. Review your recent transactions.,1,other,real_2020_2024,2024-03-02 01:41:45
+100,Congrats! You’ve won a $500 gift card. Claim at http://bit.ly/claimnow,1,SMS,generated,2024-01-31 17:19:45
